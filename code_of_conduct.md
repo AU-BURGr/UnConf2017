@@ -1,4 +1,4 @@
-#BURGr UnConf 2017 Code of Conduct
+# BURGr UnConf 2017 Code of Conduct
 
 The organisers of this unconf are committed to providing a welcoming and harassment-free environment for participants of all races, gender and trans statuses, sexual orientations, physical abilities, physical appearances, and beliefs. We’ve written this code of conduct not because we expect bad behavior from our community—which, in our experience, is overwhelmingly kind and civil—but because we believe a clear code of conduct is a necessary part of building a respectful community space.
 
